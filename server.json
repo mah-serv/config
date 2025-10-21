@@ -1,9 +1,10 @@
 {
   "_comment1": "api_base_url was previously https://organic-space-xylophone...",
   "_comment2": "api_base_url2 was https://nadmah.pythonanywhere.com/",
-  "api_base_url0": "127.0.0.1:8080/",
+  "api_base_url": "127.0.0.1:8080/",
   "Update": "0"
 }
+
 
 
 
